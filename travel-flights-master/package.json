@@ -41,7 +41,7 @@
     "materialui",
     "material"
   ],
-  "author": "Ali Sabri GÖK <alisabrigok@gmail.com> (http://www.alisabri.com)",
+  "author": "Vivek kumar",
   "license": "MIT",
   "devDependencies": {
     "autoprefixer": "^7.1.5",
